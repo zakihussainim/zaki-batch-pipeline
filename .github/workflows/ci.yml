@@ -37,7 +37,7 @@ jobs:
       - name: Configure AWS credentials via OIDC
         uses: aws-actions/configure-aws-credentials@v4
         with:
-          role-to-assume: arn:aws:iam::123456789012:role/zaki-batch-pipeline-github-actions
+             role-to-assume: ${{ vars.AWS_ROLE_ARN }}
           aws-region: eu-west-2
 
       - name: Upload script to S3
