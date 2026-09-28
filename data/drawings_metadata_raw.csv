@@ -1,0 +1,297 @@
+drawing_number,revision,client_name,project_code,drawing_title,drawing_type,material,status,issued_date,drawn_by,checked_by,approved_by,approved_date,sheet_size,superseded_by
+DWG-10053,A,Coastal Fabrication Ltd,PRJ-2023-02670,Frame Weldment,Assembly,Stainless Steel,Rejected,2025-05-17,A. Patel,M. Chen,,,A3,DWG-10053:B
+DWG-10068,A,Delta Precision Works,PRJ-2023-03365,Housing Assembly,Assembly,Plastic,Rejected,2024-06-29,A. Patel,J. Smith,,,A3,DWG-10068:B
+DWG-10002,A,Brightline Industries,PRJ-2026-01050,Frame Detail,Schematic,Aluminium,Superseded,2026-05-02,L. Novak,M. Chen,J. Smith,2026-05-07,A0,DWG-10002:B
+DWG-10126,A,Brightline Industries,PRJ-2024-01629,Frame Detail,BOM,Plastic,Rejected,2025-09-11,M. Chen,L. Novak,,,A3,DWG-10126:B
+DWG-10021,A,Delta Precision Works,PRJ-2025-03148,Mount Assembly,BOM,Plastic,Rejected,2025-09-06,M. Chen,J. Smith,,,A1,DWG-10021:B
+DWG-10022,A,Coastal Fabrication Ltd,PRJ-2024-02005,Housing Assembly,Detail,Steel,Rejected,2024-10-26,A. Patel,J. Smith,,,A0,DWG-10022:B
+DWG-10107,A,Coastal Fabrication Ltd,PRJ-2026-02326,Panel Detail,Detail,Stainless Steel,Superseded,2024-10-26,R. Okafor,M. Chen,L. Novak,2024-11-04,A0,DWG-10107:B
+DWG-10030,A,Brightline Industries,PRJ-2025-01271,Frame Assembly,Assembly,Plastic,Superseded,2025-06-16,L. Novak,M. Chen,A. Patel,2025-06-30,A2,DWG-10030:B
+DWG-10023,B,Acme Manufacturing,PRJ-2025-00486,Frame Assembly,Schematic,Titanium,Superseded,2024-09-22,L. Novak,M. Chen,A. Patel,2024-10-02,A1,DWG-10023:C
+DWG-10088,A,Acme Manufacturing,PRJ-2025-00855,Housing Weldment,BOM,Steel,Rejected,2025-11-19,M. Chen,A. Patel,,,A3,DWG-10088:B
+DWG-10135,B,Delta Precision Works,PRJ-2023-03689,Frame Weldment,Schematic,Stainless Steel,Pending Approval,2026-01-04,J. Smith,M. Chen,,,A0,
+DWG-10008,B,Coastal Fabrication Ltd,PRJ-2026-02295,Panel Detail,Detail,Titanium,Superseded,2025-08-16,A. Patel,J. Smith,L. Novak,2025-08-20,A2,DWG-10008:C
+DWG-10095,B,Coastal Fabrication Ltd,PRJ-2025-02749,Mount Weldment,BOM,Aluminium,Rejected,2025-02-27,R. Okafor,A. Patel,,,A3,DWG-10095:C
+DWG-10030,B,Brightline Industries,PRJ-2025-01271,Frame Assembly,Assembly,Plastic,Draft,2025-08-03,J. Smith,A. Patel,,,A2,
+DWG-10094,A,Coastal Fabrication Ltd,PRJ-2023-02361,Mount Assembly,Assembly,Steel,Pending Approval,2024-04-17,J. Smith,A. Patel,,,A0,
+DWG-10020,A,Delta Precision Works,PRJ-2025-03411,Panel Weldment,Detail,Titanium,Superseded,2025-01-27,R. Okafor,A. Patel,R. Okafor,2025-01-28,A0,DWG-10020:B
+DWG-10091,A,Acme Manufacturing,PRJ-2025-00597,Panel Detail,BOM,Stainless Steel,Superseded,2024-07-03,M. Chen,L. Novak,J. Smith,2024-07-15,A3,DWG-10091:B
+DWG-10044,A,Everline Components,PRJ-2025-04534,Mount Detail,Assembly,Plastic,Superseded,2024-12-21,R. Okafor,L. Novak,L. Novak,2025-01-01,A4,DWG-10044:B
+DWG-10059,C,Coastal Fabrication Ltd,PRJ-2025-02059,Frame Weldment,BOM,Steel,Draft,2026-07-08,L. Novak,R. Okafor,,,A2,
+DWG-10106,A,Brightline Industries,PRJ-2023-01764,Housing Detail,Detail,Steel,Rejected,2025-07-14,J. Smith,M. Chen,,,A0,DWG-10106:B
+DWG-10103,A,Everline Components,PRJ-2024-04453,Frame Detail,Assembly,Stainless Steel,Draft,2025-04-12,R. Okafor,J. Smith,,,A0,
+DWG-10016,B,Delta Precision Works,PRJ-2026-03106,Panel Detail,Assembly,Plastic,Pending Approval,2025-03-13,A. Patel,J. Smith,,,A4,
+DWG-10059,B,Coastal Fabrication Ltd,PRJ-2025-02059,Frame Weldment,BOM,Steel,Superseded,2026-06-09,R. Okafor,L. Novak,J. Smith,2026-06-14,A2,DWG-10059:C
+DWG-10066,A,Coastal Fabrication Ltd,PRJ-2025-02411,Bracket Assembly,Assembly,Aluminium,Pending Approval,2024-01-19,A. Patel,R. Okafor,,,A2,
+DWG-10012,A,Everline Components,PRJ-2026-04873,Mount Detail,BOM,Stainless Steel,Superseded,2025-08-04,A. Patel,J. Smith,M. Chen,2025-08-17,A0,DWG-10012:B
+DWG-10038,A,Coastal Fabrication Ltd,PRJ-2026-02673,Frame Assembly,Detail,Plastic,Draft,2024-10-22,J. Smith,R. Okafor,,,A2,
+DWG-10070,C,Acme Manufacturing,PRJ-2024-00769,Housing Detail,Detail,Plastic,Pending Approval,2025-03-14,R. Okafor,L. Novak,,,A0,
+DWG-10060,C,Coastal Fabrication Ltd,PRJ-2024-02045,Panel Weldment,Assembly,Titanium,Draft,2026-05-14,A. Patel,J. Smith,,,A0,
+DWG-10080,B,Coastal Fabrication Ltd,PRJ-2025-02683,Frame Detail,BOM,Steel,Pending Approval,2025-08-21,M. Chen,R. Okafor,,,A1,
+DWG-10029,A,Brightline Industries,PRJ-2026-01002,Housing Detail,Schematic,Titanium,Rejected,2024-10-12,M. Chen,R. Okafor,,,A1,DWG-10029:B
+DWG-10039,A,Everline Components,PRJ-2023-04856,Frame Assembly,Schematic,Steel,Rejected,2025-04-30,A. Patel,M. Chen,,,A2,DWG-10039:B
+DWG-10069,B,Acme Manufacturing,PRJ-2026-00445,Panel Detail,Assembly,Aluminium,Draft,2025-05-25,M. Chen,A. Patel,,,A4,
+DWG-10054,B,Coastal Fabrication Ltd,PRJ-2023-02570,Housing Detail,BOM,Titanium,Pending Approval,2024-10-17,R. Okafor,A. Patel,,,A1,
+DWG-10100,B,Acme Manufacturing,PRJ-2026-00551,Housing Detail,Detail,Stainless Steel,Approved,2026-03-06,L. Novak,R. Okafor,R. Okafor,2026-03-20,A0,
+DWG-10080,A,Coastal Fabrication Ltd,PRJ-2025-02683,Frame Detail,BOM,Steel,Superseded,2025-07-15,L. Novak,R. Okafor,A. Patel,2025-07-17,A1,DWG-10080:B
+DWG-10127,B,Delta Precision Works,PRJ-2023-03572,Bracket Weldment,Schematic,Stainless Steel,Approved,2026-02-26,M. Chen,L. Novak,R. Okafor,2026-03-09,A3,
+DWG-10035,C,Brightline Industries,PRJ-2023-01546,Panel Weldment,Assembly,Aluminium,Rejected,2026-04-12,R. Okafor,L. Novak,,,A2,
+DWG-10118,A,Brightline Industries,PRJ-2025-01825,Mount Detail,Schematic,Stainless Steel,Rejected,2025-10-04,L. Novak,A. Patel,,,A1,
+DWG-10065,A,Delta Precision Works,PRJ-2026-03517,Mount Detail,Schematic,Stainless Steel,Rejected,2025-06-20,R. Okafor,A. Patel,,,A4,
+DWG-10003,B,Delta Precision Works,PRJ-2024-03798,Housing Weldment,Detail,Stainless Steel,Pending Approval,2026-03-25,R. Okafor,L. Novak,,,A0,
+DWG-10060,B,Coastal Fabrication Ltd,PRJ-2024-02045,Panel Weldment,Assembly,Titanium,Rejected,2026-03-18,R. Okafor,M. Chen,,,A0,DWG-10060:C
+DWG-10011,B,Brightline Industries,PRJ-2026-01672,Bracket Detail,BOM,Aluminium,Rejected,2025-02-06,L. Novak,A. Patel,,,A4,DWG-10011:C
+DWG-10032,A,Brightline Industries,PRJ-2025-01882,Mount Detail,Schematic,Steel,Rejected,2026-05-22,A. Patel,M. Chen,,,A1,DWG-10032:B
+DWG-10093,A,Delta Precision Works,PRJ-2025-03211,Bracket Weldment,BOM,Plastic,Rejected,2024-05-13,J. Smith,R. Okafor,,,A4,DWG-10093:B
+DWG-10114,B,Coastal Fabrication Ltd,PRJ-2026-02317,Frame Weldment,Detail,Titanium,Superseded,2025-07-01,R. Okafor,J. Smith,M. Chen,2025-07-13,A2,DWG-10114:C
+DWG-10033,A,Acme Manufacturing,PRJ-2024-00987,Bracket Weldment,Detail,Stainless Steel,Superseded,2025-04-25,M. Chen,J. Smith,M. Chen,2025-05-03,A1,DWG-10033:B
+DWG-10150,B,Everline Components,PRJ-2024-04639,Housing Assembly,Detail,Titanium,Pending Approval,2025-10-10,J. Smith,R. Okafor,,,A4,
+DWG-10048,A,Brightline Industries,PRJ-2025-01915,Mount Assembly,BOM,Titanium,Rejected,2024-08-07,A. Patel,J. Smith,,,A1,DWG-10048:B
+DWG-10070,A,Acme Manufacturing,PRJ-2024-00769,Housing Detail,Detail,Plastic,Superseded,2024-12-20,M. Chen,L. Novak,J. Smith,2025-01-01,A0,DWG-10070:B
+DWG-10076,A,Delta Precision Works,PRJ-2023-03579,Mount Detail,Schematic,Titanium,Pending Approval,2024-07-17,J. Smith,M. Chen,,,A1,
+,B,Coastal Fabrication Ltd,PRJ-2023-02586,Panel Weldment,Detail,Steel,Rejected,2025-09-23,L. Novak,M. Chen,,,A4,DWG-10043:C
+DWG-10116,A,Everline Components,PRJ-2026-04983,Housing Assembly,Schematic,Steel,Pending Approval,2026-02-24,J. Smith,M. Chen,,,A4,
+DWG-10113,B,Brightline Industries,PRJ-2025-01405,Housing Detail,Schematic,Stainless Steel,Draft,2025-01-07,A. Patel,J. Smith,,,A4,
+DWG-10047,A,Everline Components,PRJ-2023-04914,Frame Weldment,Detail,Titanium,Superseded,2024-06-04,M. Chen,L. Novak,M. Chen,2024-06-05,A0,DWG-10047:B
+DWG-10056,B,Acme Manufacturing,PRJ-2023-00450,Bracket Detail,Assembly,Steel,Rejected,2025-01-16,J. Smith,L. Novak,,,A3,
+DWG-10119,B,Brightline Industries,PRJ-2026-01076,Frame Assembly,Assembly,Aluminium,Rejected,2025-05-12,L. Novak,A. Patel,,,A4,
+DWG-10004,A,Delta Precision Works,PRJ-2026-03012,Housing Assembly,Assembly,Aluminium,Superseded,2026-02-06,R. Okafor,L. Novak,R. Okafor,2026-02-09,A0,DWG-10004:B
+DWG-10077,A,Brightline Industries,PRJ-2026-01032,Bracket Weldment,BOM,Steel,Superseded,2025-05-04,A. Patel,L. Novak,L. Novak,2025-05-14,A3,DWG-10077:B
+DWG-10026,A,Brightline Industries,PRJ-2026-01192,Housing Detail,BOM,Steel,Superseded,2024-06-06,L. Novak,R. Okafor,A. Patel,2024-06-12,A0,DWG-10026:B
+DWG-10111,A,Delta Precision Works,PRJ-2026-03491,Panel Detail,Assembly,Stainless Steel,Rejected,2024-05-03,L. Novak,R. Okafor,,,A2,DWG-10111:B
+DWG-10017,B,Everline Components,PRJ-2026-04465,Housing Assembly,Schematic,Aluminium,Rejected,2025-01-13,J. Smith,R. Okafor,,,A3,
+DWG-10092,A,Brightline Industries,PRJ-2023-01048,Bracket Assembly,Schematic,Plastic,Pending Approval,2024-09-09,M. Chen,A. Patel,,,A3,
+DWG-10096,A,Brightline Industries,PRJ-2026-01343,Housing Weldment,Schematic,Steel,Superseded,2025-06-01,R. Okafor,M. Chen,R. Okafor,2025-06-03,A1,DWG-10096:B
+DWG-10057,B,Everline Components,PRJ-2023-04368,Bracket Detail,Detail,Steel,Rejected,2025-12-20,L. Novak,A. Patel,,,A4,DWG-10057:C
+DWG-10044,C,Everline Components,PRJ-2025-04534,Mount Detail,Assembly,Plastic,Draft,2025-03-04,A. Patel,L. Novak,,,A4,
+DWG-10091,B,Acme Manufacturing,PRJ-2025-00597,Panel Detail,BOM,Stainless Steel,Rejected,2024-07-19,L. Novak,A. Patel,,,A3,
+DWG-10130,A,Everline Components,PRJ-2025-04502,Housing Assembly,Assembly,Titanium,Draft,2025-10-03,J. Smith,L. Novak,,,A2,
+DWG-10028,B,Acme Manufacturing,PRJ-2024-00175,Panel Assembly,Assembly,Stainless Steel,Superseded,2025-06-21,L. Novak,M. Chen,A. Patel,2025-07-02,A1,DWG-10028:C
+DWG-10112,A,Delta Precision Works,PRJ-2024-03640,Housing Assembly,BOM,Stainless Steel,Draft,2025-03-15,L. Novak,M. Chen,,,A4,
+DWG-10100,A,Acme Manufacturing,PRJ-2026-00551,Housing Detail,Detail,Stainless Steel,Rejected,2026-01-25,M. Chen,R. Okafor,,,A0,DWG-10100:B
+DWG-10042,A,Everline Components,PRJ-2025-04838,Bracket Detail,Schematic,Plastic,Pending Approval,2024-10-07,M. Chen,A. Patel,,,A4,
+DWG-10015,A,Coastal Fabrication Ltd,PRJ-2026-02055,Mount Weldment,Assembly,Stainless Steel,Rejected,2025-11-27,J. Smith,L. Novak,,,A4,
+DWG-10091,A,Acme Manufacturing,PRJ-2025-00597,Panel Detail,BOM,Stainless Steel,Superseded,2024-07-03,M. Chen,L. Novak,J. Smith,2024-07-15,A3,DWG-10091:B
+DWG-10009,C,Acme Manufacturing,PRJ-2024-00897,Frame Weldment,Assembly,Stainless Steel,Pending Approval,2025-08-25,J. Smith,M. Chen,,,A0,
+DWG-10044,B,Everline Components,PRJ-2025-04534,Mount Detail,Assembly,Plastic,Superseded,2025-02-10,R. Okafor,M. Chen,L. Novak,2025-02-19,A4,DWG-10044:C
+DWG-10086,B,Brightline Industries,PRJ-2024-01994,Mount Weldment,BOM,Steel,Approved,2026-03-28,A. Patel,M. Chen,A. Patel,2026-04-03,A3,
+DWG-10048,C,Brightline Industries,PRJ-2025-01915,Mount Assembly,BOM,Titanium,Pending Approval,2024-10-08,J. Smith,M. Chen,,,A1,
+DWG-10032,C,Brightline Industries,PRJ-2025-01882,Mount Detail,Schematic,Steel,Draft,2026-06-26,L. Novak,M. Chen,,,A1,
+DWG-10021,B,Delta Precision Works,PRJ-2025-03148,Mount Assembly,BOM,Plastic,Superseded,2025-10-14,L. Novak,M. Chen,J. Smith,2025-10-26,A1,DWG-10021:C
+DWG-10078,A,Acme Manufacturing,PRJ-2025-00514,Housing Weldment,Schematic,Titanium,Superseded,2024-12-26,A. Patel,M. Chen,J. Smith,2024-12-30,A0,DWG-10078:B
+DWG-10081,B,Acme Manufacturing,PRJ-2026-00699,Mount Weldment,Schematic,Aluminium,Draft,2024-02-27,M. Chen,J. Smith,,,A2,
+DWG-10095,A,Coastal Fabrication Ltd,PRJ-2025-02749,Mount Weldment,BOM,Aluminium,Rejected,2025-01-06,M. Chen,A. Patel,,,A3,DWG-10095:B
+DWG-10009,B,Acme Manufacturing,PRJ-2024-00897,Frame Weldment,Assembly,Stainless Steel,Superseded,2025-08-08,J. Smith,M. Chen,R. Okafor,2025-08-15,A0,DWG-10009:C
+DWG-10119,A,Brightline Industries,PRJ-2026-01076,Frame Assembly,Assembly,Aluminium,Rejected,2025-03-21,R. Okafor,J. Smith,,,A4,DWG-10119:B
+DWG-10104,B,Coastal Fabrication Ltd,PRJ-2025-02602,Panel Assembly,Schematic,Plastic,Rejected,2025-10-14,R. Okafor,L. Novak,,,A2,DWG-10104:C
+DWG-10026,B,Brightline Industries,PRJ-2026-01192,Housing Detail,BOM,Steel,Draft,2024-07-11,L. Novak,A. Patel,,,A0,
+DWG-10020,B,,PRJ-2025-03411,Panel Weldment,Detail,Titanium,Superseded,2025-02-03,M. Chen,L. Novak,J. Smith,2025-02-05,A0,DWG-10020:C
+DWG-10085,A,Acme Manufacturing,PRJ-2025-00546,Panel Detail,Assembly,Stainless Steel,Superseded,2024-11-23,M. Chen,R. Okafor,M. Chen,2024-11-26,A3,DWG-10085:B
+DWG-10056,A,Acme Manufacturing,PRJ-2023-00450,Bracket Detail,Assembly,Steel,Superseded,2025-01-07,L. Novak,A. Patel,M. Chen,2025-01-13,A3,DWG-10056:B
+DWG-10145,A,Coastal Fabrication Ltd,PRJ-2026-02171,Frame Assembly,Schematic,Titanium,Rejected,2024-08-11,R. Okafor,M. Chen,,,A4,DWG-10145:B
+DWG-10067,A,Acme Manufacturing,PRJ-2026-00251,Bracket Assembly,Assembly,Plastic,Approved,2026-01-18,A. Patel,J. Smith,M. Chen,2026-01-26,A4,
+DWG-10002,B,Brightline Industries,PRJ-2026-01050,Frame Detail,Schematic,Aluminium,Superseded,2026-06-29,L. Novak,J. Smith,M. Chen,2026-07-04,A0,DWG-10002:C
+DWG-10082,A,Coastal Fabrication Ltd,PRJ-2026-02724,Mount Weldment,Detail,Stainless Steel,Approved,2024-04-23,A. Patel,J. Smith,J. Smith,2024-04-30,A1,
+DWG-10148,A,Everline Components,PRJ-2025-04538,Mount Detail,Assembly,Titanium,Rejected,2026-04-24,A. Patel,R. Okafor,,,A2,DWG-10148:B
+DWG-10149,B,Brightline Industries,PRJ-2026-01501,Housing Weldment,Detail,Titanium,Approved,2024-05-23,L. Novak,A. Patel,R. Okafor,2024-05-27,A4,
+DWG-10072,A,Everline Components,PRJ-2025-04540,Frame Weldment,BOM,Plastic,Approved,2025-06-07,R. Okafor,L. Novak,R. Okafor,2025-06-17,A1,
+DWG-10097,C,Brightline Industries,PRJ-2023-01105,Panel Weldment,BOM,Steel,Rejected,2026-02-12,A. Patel,L. Novak,,,A4,
+DWG-10141,B,Everline Components,PRJ-2025-04056,Bracket Detail,Assembly,Titanium,Superseded,2024-03-31,J. Smith,A. Patel,M. Chen,2024-04-02,A4,DWG-10141:C
+DWG-10123,B,Acme Manufacturing,PRJ-2023-00837,Mount Assembly,Detail,Titanium,Pending Approval,2024-07-06,L. Novak,M. Chen,,,A0,
+DWG-10012,B,Everline Components,PRJ-2026-04873,Mount Detail,BOM,Stainless Steel,Rejected,2025-08-09,R. Okafor,M. Chen,,,A0,
+DWG-10149,A,Brightline Industries,PRJ-2026-01501,Housing Weldment,Detail,Titanium,Rejected,2024-05-02,J. Smith,R. Okafor,,,A4,DWG-10149:B
+DWG-10129,B,Delta Precision Works,PRJ-2025-03119,Mount Assembly,Assembly,Steel,Approved,2026-04-13,M. Chen,L. Novak,R. Okafor,2026-04-27,A1,
+DWG-10059,A,Coastal Fabrication Ltd,PRJ-2025-02059,Frame Weldment,BOM,Steel,Rejected,2026-04-24,L. Novak,A. Patel,,,A2,DWG-10059:B
+DWG-10125,A,Delta Precision Works,PRJ-2024-03376,Panel Assembly,Schematic,Plastic,Superseded,2025-07-21,J. Smith,M. Chen,R. Okafor,2025-07-25,A4,DWG-10125:B
+DWG-10120,B,Brightline Industries,PRJ-2023-01190,Frame Detail,Assembly,Stainless Steel,Pending Approval,2025-09-29,A. Patel,J. Smith,,,A1,
+DWG-10117,A,Brightline Industries,PRJ-2023-01984,Mount Assembly,Schematic,Plastic,Rejected,2025-03-10,A. Patel,J. Smith,,,A3,DWG-10117:B
+DWG-10068,C,Delta Precision Works,PRJ-2023-03365,Housing Assembly,Assembly,Plastic,Rejected,2024-09-05,M. Chen,R. Okafor,,,A3,
+,A,Delta Precision Works,PRJ-2024-03798,Housing Weldment,Detail,Stainless Steel,Rejected,2026-03-08,J. Smith,L. Novak,,,A0,DWG-10003:B
+DWG-10057,C,Everline Components,PRJ-2023-04368,Bracket Detail,Detail,Steel,Draft,2026-02-07,A. Patel,M. Chen,,,A4,
+DWG-10062,C,Brightline Industries,PRJ-2023-01317,Bracket Detail,BOM,Steel,Rejected,2026-01-16,J. Smith,M. Chen,,,A1,
+DWG-10098,C,Everline Components,PRJ-2023-04667,Mount Assembly,Schematic,Aluminium,Approved,2025-03-23,J. Smith,M. Chen,J. Smith,2025-04-05,A0,
+DWG-10146,B,Acme Manufacturing,PRJ-2023-00413,Panel Detail,Detail,Aluminium,Draft,2026-05-13,J. Smith,M. Chen,,,A3,
+DWG-10077,C,Brightline Industries,PRJ-2026-01032,Bracket Weldment,BOM,Steel,Draft,2025-08-02,L. Novak,J. Smith,,,A3,
+DWG-10037,A,Acme Manufacturing,PRJ-2026-00493,Panel Assembly,Assembly,Steel,Approved,2024-09-27,M. Chen,R. Okafor,M. Chen,2024-10-09,A4,
+DWG-10089,B,Coastal Fabrication Ltd,PRJ-2023-02551,Housing Weldment,Schematic,Stainless Steel,Rejected,2024-07-04,R. Okafor,J. Smith,,,A2,DWG-10089:C
+DWG-10047,B,Everline Components,PRJ-2023-04914,Frame Weldment,Detail,Titanium,Rejected,2024-07-14,L. Novak,A. Patel,,,A0,
+DWG-10096,B,Brightline Industries,PRJ-2026-01343,Housing Weldment,Schematic,Steel,Rejected,2025-06-25,M. Chen,A. Patel,,,A1,DWG-10096:C
+DWG-10063,B,Acme Manufacturing,PRJ-2026-00912,Panel Detail,Detail,Plastic,Pending Approval,2024-10-23,A. Patel,L. Novak,,,A2,
+DWG-10107,B,Coastal Fabrication Ltd,PRJ-2026-02326,Panel Detail,Detail,Stainless Steel,Rejected,2024-11-13,J. Smith,R. Okafor,,,A0,DWG-10107:C
+DWG-10075,B,Delta Precision Works,PRJ-2023-03610,Frame Assembly,Detail,Aluminium,Approved,2025-04-16,J. Smith,A. Patel,M. Chen,2025-04-19,A0,
+DWG-10136,A,Everline Components,PRJ-2025-04605,Bracket Weldment,Assembly,Aluminium,Rejected,2025-02-01,L. Novak,J. Smith,,,A4,
+DWG-10115,B,Delta Precision Works,PRJ-2025-03761,Frame Assembly,Detail,Titanium,Pending Approval,2026-01-05,L. Novak,M. Chen,,,A3,
+DWG-10060,A,Coastal Fabrication Ltd,PRJ-2024-02045,Panel Weldment,Assembly,Titanium,Rejected,2026-02-17,L. Novak,J. Smith,,,A0,DWG-10060:B
+DWG-10106,B,Brightline Industries,PRJ-2023-01764,Housing Detail,Detail,Steel,Pending Approval,2025-08-28,M. Chen,A. Patel,,,A0,
+DWG-10023,A,Acme Manufacturing,PRJ-2025-00486,Frame Assembly,Schematic,Titanium,Superseded,2024-08-27,R. Okafor,J. Smith,M. Chen,2024-09-04,A1,DWG-10023:B
+DWG-10079,B,Brightline Industries,PRJ-2024-01723,Frame Detail,BOM,Stainless Steel,Rejected,2024-02-26,J. Smith,A. Patel,,,A0,
+DWG-10052,B,Brightline Industries,PRJ-2023-01771,Mount Detail,Assembly,Steel,Approved,2025-05-06,L. Novak,A. Patel,L. Novak,2025-05-19,A0,
+DWG-10027,A,Coastal Fabrication Ltd,PRJ-2023-02124,Mount Detail,Detail,Aluminium,Rejected,2025-08-23,R. Okafor,L. Novak,,,A2,DWG-10027:B
+DWG-10104,C,Coastal Fabrication Ltd,PRJ-2025-02602,Panel Assembly,Schematic,Plastic,Pending Approval,2025-10-20,J. Smith,L. Novak,,,A2,
+DWG-10089,A,Coastal Fabrication Ltd,PRJ-2023-02551,Housing Weldment,Schematic,Stainless Steel,Superseded,2024-06-28,A. Patel,M. Chen,M. Chen,2024-07-03,A2,DWG-10089:B
+DWG-10028,C,Acme Manufacturing,PRJ-2024-00175,Panel Assembly,Assembly,Stainless Steel,Pending Approval,2025-08-20,J. Smith,L. Novak,,,A1,
+DWG-10055,A,Brightline Industries,PRJ-2025-01845,Bracket Detail,BOM,Steel,Rejected,2024-05-19,R. Okafor,A. Patel,,,A0,DWG-10055:B
+DWG-10099,A,Delta Precision Works,PRJ-2023-03931,Frame Assembly,Assembly,Titanium,Approved,2025-10-27,L. Novak,M. Chen,M. Chen,2025-11-01,A2,
+DWG-10057,A,Everline Components,PRJ-2023-04368,Bracket Detail,Detail,Steel,Rejected,2025-12-12,A. Patel,J. Smith,,,A4,DWG-10057:B
+DWG-10107,C,Coastal Fabrication Ltd,PRJ-2026-02326,Panel Detail,Detail,Stainless Steel,Approved,2024-12-28,R. Okafor,J. Smith,A. Patel,2025-01-07,A0,
+DWG-10148,B,Everline Components,PRJ-2025-04538,Mount Detail,Assembly,Titanium,Rejected,2026-05-24,M. Chen,L. Novak,,,A2,DWG-10148:C
+DWG-10087,C,Brightline Industries,PRJ-2023-01649,Mount Weldment,Schematic,Aluminium,Rejected,2025-01-11,A. Patel,L. Novak,,,A3,
+DWG-10128,A,Everline Components,PRJ-2025-04616,Frame Assembly,Assembly,Titanium,Superseded,2024-05-02,J. Smith,M. Chen,L. Novak,2024-05-16,A4,DWG-10128:B
+DWG-10008,A,Coastal Fabrication Ltd,PRJ-2026-02295,Panel Detail,Detail,Titanium,Rejected,2025-07-13,M. Chen,L. Novak,,,A2,DWG-10008:B
+DWG-10071,A,Acme Manufacturing,PRJ-2025-00177,Frame Detail,Assembly,Steel,Draft,2024-08-12,J. Smith,L. Novak,,,A2,
+DWG-10097,A,Brightline Industries,PRJ-2023-01105,Panel Weldment,BOM,Steel,Superseded,2025-11-27,M. Chen,L. Novak,M. Chen,2025-12-01,A4,DWG-10097:B
+DWG-10032,B,Brightline Industries,PRJ-2025-01882,Mount Detail,Schematic,Steel,Rejected,2026-05-30,J. Smith,R. Okafor,,,A1,DWG-10032:C
+,B,Everline Components,PRJ-2023-04856,Frame Assembly,Schematic,Steel,Approved,2025-06-04,J. Smith,M. Chen,L. Novak,2025-06-12,A2,
+DWG-10078,B,Acme Manufacturing,PRJ-2025-00514,Housing Weldment,Schematic,Titanium,Approved,2025-02-13,A. Patel,J. Smith,A. Patel,2025-02-27,A0,
+DWG-10007,A,Delta Precision Works,PRJ-2023-03344,Panel Assembly,Detail,Stainless Steel,Superseded,2024-06-03,J. Smith,A. Patel,J. Smith,2024-06-11,A2,DWG-10007:B
+DWG-10110,A,Everline Components,PRJ-2026-04675,Panel Detail,Detail,Stainless Steel,Rejected,2024-06-20,A. Patel,J. Smith,,,A3,DWG-10110:B
+DWG-10034,B,Everline Components,PRJ-2024-04228,Frame Detail,BOM,Steel,Rejected,2024-04-07,L. Novak,R. Okafor,,,A2,DWG-10034:C
+DWG-10143,A,Coastal Fabrication Ltd,PRJ-2025-02446,Housing Weldment,Detail,Plastic,Draft,2024-12-14,R. Okafor,L. Novak,,,A4,
+DWG-10110,A,Everline Components,PRJ-2026-04675,Panel Detail,Detail,Stainless Steel,Rejected,2024-06-20,A. Patel,J. Smith,,,A3,DWG-10110:B
+DWG-10073,A,Coastal Fabrication Ltd,PRJ-2023-02225,Mount Weldment,Assembly,Stainless Steel,Rejected,2024-07-26,J. Smith,R. Okafor,,,A3,DWG-10073:B
+DWG-10063,A,Acme Manufacturing,PRJ-2026-00912,Panel Detail,Detail,Plastic,Superseded,2024-10-18,M. Chen,J. Smith,R. Okafor,2024-10-20,A2,DWG-10063:B
+DWG-10126,C,Brightline Industries,PRJ-2024-01629,Frame Detail,BOM,Plastic,Pending Approval,2025-10-08,M. Chen,J. Smith,,,A3,
+DWG-10144,A,Brightline Industries,PRJ-2024-01102,Panel Detail,Detail,Aluminium,Rejected,2024-08-01,R. Okafor,M. Chen,,,A0,DWG-10144:B
+DWG-10139,A,Everline Components,PRJ-2025-04952,Frame Assembly,Schematic,Stainless Steel,Rejected,2026-02-17,J. Smith,R. Okafor,,,A3,
+DWG-10128,B,Everline Components,PRJ-2025-04616,Frame Assembly,Assembly,Titanium,Rejected,2024-05-16,J. Smith,L. Novak,,,A4,DWG-10128:C
+DWG-10102,A,Everline Components,PRJ-2023-04242,Mount Detail,Detail,Plastic,Rejected,2025-11-07,J. Smith,A. Patel,,,A1,
+DWG-10100,A,Acme Manufacturing,PRJ-2026-00551,Housing Detail,Detail,Stainless Steel,Rejected,2026-01-25,M. Chen,R. Okafor,,,A0,DWG-10100:B
+DWG-10036,C,Acme Manufacturing,PRJ-2026-00562,Mount Assembly,Assembly,Stainless Steel,Rejected,2025-07-22,A. Patel,M. Chen,,,A3,
+DWG-10061,A,Acme Manufacturing,PRJ-2023-00157,Frame Weldment,Schematic,Stainless Steel,Draft,2024-05-12,J. Smith,R. Okafor,,,A4,
+DWG-10086,A,Brightline Industries,PRJ-2024-01994,Mount Weldment,BOM,Steel,Rejected,2026-02-16,A. Patel,J. Smith,,,A3,DWG-10086:B
+DWG-10052,A,Brightline Industries,PRJ-2023-01771,Mount Detail,Assembly,Steel,Superseded,2025-03-18,L. Novak,M. Chen,L. Novak,2025-03-25,A0,DWG-10052:B
+DWG-10131,A,Brightline Industries,PRJ-2023-01151,Frame Weldment,Detail,Steel,Draft,2024-07-24,A. Patel,R. Okafor,,,A3,
+DWG-10108,A,Brightline Industries,PRJ-2025-01358,Mount Weldment,Assembly,Aluminium,Superseded,2024-08-06,R. Okafor,J. Smith,A. Patel,2024-08-11,A1,DWG-10108:B
+DWG-10110,C,Everline Components,PRJ-2026-04675,Panel Detail,Detail,Stainless Steel,Rejected,2024-08-31,A. Patel,M. Chen,,,A3,
+DWG-10011,C,Brightline Industries,PRJ-2026-01672,Bracket Detail,BOM,Aluminium,Draft,2025-02-14,J. Smith,L. Novak,,,A4,
+DWG-10022,B,Coastal Fabrication Ltd,PRJ-2024-02005,Housing Assembly,Detail,Steel,Rejected,2024-12-02,L. Novak,R. Okafor,,,A0,
+DWG-10132,B,Delta Precision Works,PRJ-2026-03148,Mount Detail,Assembly,Plastic,Superseded,2025-09-20,A. Patel,L. Novak,L. Novak,2025-09-30,A2,DWG-10132:C
+DWG-10069,A,Acme Manufacturing,PRJ-2026-00445,Panel Detail,Assembly,Aluminium,Rejected,2025-03-30,M. Chen,J. Smith,,,A4,DWG-10069:B
+DWG-10009,A,Acme Manufacturing,PRJ-2024-00897,Frame Weldment,Assembly,Stainless Steel,Rejected,2025-08-02,M. Chen,L. Novak,,,A0,DWG-10009:B
+DWG-10109,A,Acme Manufacturing,PRJ-2023-00650,Housing Weldment,Assembly,Aluminium,Rejected,2024-02-19,L. Novak,J. Smith,,,A0,DWG-10109:B
+DWG-10019,A,Acme Manufacturing,PRJ-2024-00510,Bracket Detail,Schematic,Steel,Rejected,2025-06-14,R. Okafor,A. Patel,,,A4,
+DWG-10074,A,Everline Components,PRJ-2024-04439,Mount Detail,BOM,Stainless Steel,Approved,2025-08-19,J. Smith,M. Chen,A. Patel,2025-08-22,A4,
+DWG-10013,B,Brightline Industries,PRJ-2025-01042,Frame Assembly,Assembly,Steel,Draft,2026-03-31,A. Patel,R. Okafor,,,A4,
+DWG-10114,A,Coastal Fabrication Ltd,PRJ-2026-02317,Frame Weldment,Detail,Titanium,Superseded,2025-05-02,L. Novak,A. Patel,M. Chen,2025-05-12,A2,DWG-10114:B
+DWG-10004,B,Delta Precision Works,PRJ-2026-03012,Housing Assembly,Assembly,Aluminium,Superseded,2026-04-06,M. Chen,A. Patel,A. Patel,2026-04-14,A0,DWG-10004:C
+DWG-10006,A,Delta Precision Works,PRJ-2023-03990,Panel Assembly,Detail,Steel,Superseded,2025-07-28,A. Patel,R. Okafor,R. Okafor,2025-08-11,A3,DWG-10006:B
+DWG-10006,C,Delta Precision Works,PRJ-2023-03990,Panel Assembly,Detail,Steel,Pending Approval,2025-10-01,A. Patel,M. Chen,,,A3,
+DWG-10110,B,Everline Components,PRJ-2026-04675,Panel Detail,Detail,Stainless Steel,Superseded,2024-07-08,J. Smith,M. Chen,L. Novak,2024-07-22,A3,DWG-10110:C
+DWG-10098,A,Everline Components,PRJ-2023-04667,Mount Assembly,Schematic,Aluminium,Superseded,2025-02-13,L. Novak,A. Patel,M. Chen,2025-02-21,A0,DWG-10098:B
+DWG-10011,A,Brightline Industries,PRJ-2026-01672,Bracket Detail,BOM,Aluminium,Superseded,2024-12-28,A. Patel,M. Chen,L. Novak,2025-01-03,A4,DWG-10011:B
+DWG-10054,A,Coastal Fabrication Ltd,PRJ-2023-02570,Housing Detail,BOM,Titanium,Superseded,2024-09-19,J. Smith,A. Patel,J. Smith,2024-10-01,A1,DWG-10054:B
+DWG-10058,A,Coastal Fabrication Ltd,PRJ-2026-02254,Bracket Weldment,Assembly,Plastic,Pending Approval,2024-03-14,R. Okafor,L. Novak,,,A1,
+DWG-10089,C,Coastal Fabrication Ltd,PRJ-2023-02551,Housing Weldment,Schematic,Stainless Steel,Rejected,2024-08-07,J. Smith,A. Patel,,,A2,
+DWG-10122,A,Brightline Industries,PRJ-2024-01062,Bracket Weldment,Assembly,Aluminium,Pending Approval,2026-02-04,J. Smith,R. Okafor,,,A4,
+DWG-10043,C,Coastal Fabrication Ltd,PRJ-2023-02586,Panel Weldment,Detail,Steel,Draft,2025-11-09,A. Patel,J. Smith,,,A4,
+DWG-10150,A,Everline Components,PRJ-2024-04639,Housing Assembly,Detail,Titanium,Rejected,2025-10-05,A. Patel,L. Novak,,,A4,DWG-10150:B
+DWG-10117,B,Brightline Industries,PRJ-2023-01984,Mount Assembly,Schematic,Plastic,Rejected,2025-05-08,A. Patel,J. Smith,,,A3,
+DWG-10133,A,Brightline Industries,PRJ-2026-01242,Mount Weldment,Schematic,Titanium,Rejected,2025-06-23,L. Novak,J. Smith,,,A3,DWG-10133:B
+DWG-10109,B,Acme Manufacturing,PRJ-2023-00650,Housing Weldment,Assembly,Aluminium,Rejected,2024-03-13,A. Patel,M. Chen,,,A0,
+DWG-10141,A,Everline Components,PRJ-2025-04056,Bracket Detail,Assembly,Titanium,Rejected,2024-02-01,R. Okafor,J. Smith,,,A4,DWG-10141:B
+DWG-10075,A,Delta Precision Works,PRJ-2023-03610,Frame Assembly,Detail,Aluminium,Rejected,2025-02-16,J. Smith,L. Novak,,,A0,DWG-10075:B
+DWG-10002,C,Brightline Industries,PRJ-2026-01050,Frame Detail,Schematic,Aluminium,Approved,2026-08-04,L. Novak,R. Okafor,A. Patel,2026-08-12,A0,
+DWG-10148,C,Everline Components,PRJ-2025-04538,Mount Detail,Assembly,Titanium,Pending Approval,2026-05-31,R. Okafor,J. Smith,,,A2,
+DWG-10137,A,Brightline Industries,PRJ-2024-01071,Mount Detail,BOM,Plastic,Draft,2024-09-29,M. Chen,A. Patel,,,A0,
+DWG-10125,B,Delta Precision Works,PRJ-2024-03376,Panel Assembly,Schematic,Plastic,Pending Approval,2025-09-17,L. Novak,M. Chen,,,A4,
+DWG-10108,B,Brightline Industries,PRJ-2025-01358,Mount Weldment,Assembly,Aluminium,Rejected,2024-09-01,J. Smith,M. Chen,,,A1,DWG-10108:C
+DWG-10040,A,Brightline Industries,PRJ-2023-01028,Bracket Assembly,Schematic,Aluminium,Draft,2024-05-29,M. Chen,R. Okafor,,,A2,
+,A,Brightline Industries,PRJ-2025-01140,Bracket Assembly,Assembly,Titanium,Rejected,2025-02-23,J. Smith,M. Chen,,,A2,DWG-10121:B
+DWG-10008,C,Coastal Fabrication Ltd,PRJ-2026-02295,Panel Detail,Detail,Titanium,Pending Approval,2025-09-29,J. Smith,A. Patel,,,A2,
+DWG-10001,B,Everline Components,PRJ-2025-04051,Housing Detail,Assembly,Plastic,Pending Approval,2024-03-26,J. Smith,L. Novak,,,A1,
+DWG-10006,B,Delta Precision Works,PRJ-2023-03990,Panel Assembly,Detail,Steel,Rejected,2025-08-02,L. Novak,M. Chen,,,A3,DWG-10006:C
+DWG-10126,B,Brightline Industries,PRJ-2024-01629,Frame Detail,BOM,Plastic,Rejected,2025-09-23,A. Patel,L. Novak,,,A3,DWG-10126:C
+DWG-10062,B,Brightline Industries,PRJ-2023-01317,Bracket Detail,BOM,Steel,Rejected,2025-12-12,J. Smith,R. Okafor,,,A1,DWG-10062:C
+DWG-10128,C,Everline Components,PRJ-2025-04616,Frame Assembly,Assembly,Titanium,Pending Approval,2024-06-17,J. Smith,R. Okafor,,,A4,
+DWG-10024,A,Everline Components,PRJ-2025-04070,Housing Assembly,Assembly,Plastic,Draft,2025-05-25,J. Smith,A. Patel,,,A3,
+DWG-10016,A,Delta Precision Works,PRJ-2026-03106,Panel Detail,Assembly,Plastic,Rejected,2025-03-01,J. Smith,L. Novak,,,A4,DWG-10016:B
+DWG-10124,A,Delta Precision Works,PRJ-2026-03183,Mount Detail,Schematic,Stainless Steel,Draft,2026-05-27,A. Patel,M. Chen,,,A4,
+DWG-10083,A,Delta Precision Works,PRJ-2026-03412,Bracket Assembly,Assembly,Stainless Steel,Pending Approval,2024-05-15,A. Patel,J. Smith,,,A0,
+DWG-10142,A,Coastal Fabrication Ltd,PRJ-2026-02517,Bracket Detail,BOM,Titanium,Approved,2025-12-25,L. Novak,J. Smith,L. Novak,2026-01-04,A2,
+DWG-10029,B,Brightline Industries,PRJ-2026-01002,Housing Detail,Schematic,Titanium,Superseded,2024-11-17,L. Novak,R. Okafor,J. Smith,2024-11-30,A1,DWG-10029:C
+DWG-10081,A,Acme Manufacturing,PRJ-2026-00699,Mount Weldment,Schematic,Aluminium,Superseded,2024-01-10,R. Okafor,L. Novak,A. Patel,2024-01-12,A2,DWG-10081:B
+DWG-10104,A,Coastal Fabrication Ltd,PRJ-2025-02602,Panel Assembly,Schematic,Plastic,Superseded,2025-09-07,R. Okafor,A. Patel,L. Novak,2025-09-09,A2,DWG-10104:B
+DWG-10014,A,Coastal Fabrication Ltd,PRJ-2024-02338,Housing Detail,Detail,Steel,Draft,2024-09-26,J. Smith,L. Novak,,,A2,
+DWG-10049,A,Delta Precision Works,PRJ-2026-03743,Housing Weldment,Detail,Titanium,Approved,2025-04-17,A. Patel,R. Okafor,A. Patel,2025-04-30,A2,
+DWG-10036,A,Acme Manufacturing,PRJ-2026-00562,Mount Assembly,Assembly,Stainless Steel,Superseded,2025-06-16,A. Patel,M. Chen,A. Patel,2025-06-23,A3,DWG-10036:B
+DWG-10079,A,Brightline Industries,PRJ-2024-01723,Frame Detail,BOM,Stainless Steel,Superseded,2024-01-21,M. Chen,R. Okafor,M. Chen,2024-01-23,A0,DWG-10079:B
+DWG-10029,C,Brightline Industries,PRJ-2026-01002,Housing Detail,Schematic,Titanium,Rejected,2024-12-27,R. Okafor,M. Chen,,,A1,
+DWG-10134,A,Brightline Industries,PRJ-2023-01136,Panel Detail,Detail,Stainless Steel,Approved,2026-05-23,R. Okafor,L. Novak,J. Smith,2026-05-25,A2,
+DWG-10147,A,Coastal Fabrication Ltd,PRJ-2026-02038,Housing Detail,Assembly,Steel,Draft,2024-07-30,J. Smith,R. Okafor,,,A2,
+DWG-10129,A,Delta Precision Works,PRJ-2025-03119,Mount Assembly,Assembly,Steel,Rejected,2026-03-13,M. Chen,A. Patel,,,A1,DWG-10129:B
+DWG-10031,A,Acme Manufacturing,PRJ-2025-00152,Frame Assembly,BOM,Stainless Steel,Pending Approval,2024-09-09,L. Novak,J. Smith,,,A0,
+DWG-10090,A,Delta Precision Works,PRJ-2025-03283,Mount Assembly,Assembly,Plastic,Approved,2024-01-02,A. Patel,J. Smith,M. Chen,2024-01-15,A4,
+DWG-10144,B,Brightline Industries,PRJ-2024-01102,Panel Detail,Detail,Aluminium,Superseded,2024-08-24,R. Okafor,L. Novak,R. Okafor,2024-08-27,A0,DWG-10144:C
+DWG-10036,B,Acme Manufacturing,PRJ-2026-00562,Mount Assembly,Assembly,Stainless Steel,Superseded,2025-07-09,M. Chen,J. Smith,L. Novak,2025-07-14,A3,DWG-10036:C
+DWG-10135,A,Delta Precision Works,PRJ-2023-03689,Frame Weldment,Schematic,Stainless Steel,Rejected,2025-11-22,M. Chen,L. Novak,,,A0,DWG-10135:B
+DWG-10144,C,Brightline Industries,PRJ-2024-01102,Panel Detail,Detail,Aluminium,Pending Approval,2024-09-11,L. Novak,J. Smith,,,A0,
+DWG-10105,A,Everline Components,PRJ-2023-04056,Panel Detail,Assembly,Stainless Steel,Rejected,2026-01-31,M. Chen,L. Novak,,,A1,DWG-10105:B
+DWG-10138,A,Coastal Fabrication Ltd,PRJ-2025-02902,Panel Assembly,Detail,Steel,Rejected,2025-10-03,M. Chen,R. Okafor,,,A3,DWG-10138:B
+DWG-10088,C,,PRJ-2025-00855,Housing Weldment,BOM,Steel,Pending Approval,2026-02-11,L. Novak,A. Patel,,,A3,
+DWG-10105,B,Everline Components,PRJ-2023-04056,Panel Detail,Assembly,Stainless Steel,Rejected,2026-03-16,R. Okafor,L. Novak,,,A1,
+DWG-10114,C,Coastal Fabrication Ltd,PRJ-2026-02317,Frame Weldment,Detail,Titanium,Approved,2025-07-24,M. Chen,R. Okafor,R. Okafor,2025-08-04,A2,
+DWG-10096,C,Brightline Industries,PRJ-2026-01343,Housing Weldment,Schematic,Steel,Rejected,2025-08-19,A. Patel,L. Novak,,,A1,
+DWG-10070,B,Acme Manufacturing,PRJ-2024-00769,Housing Detail,Detail,Plastic,Superseded,2025-01-15,L. Novak,A. Patel,L. Novak,2025-01-20,A0,DWG-10070:C
+DWG-10025,A,Everline Components,PRJ-2023-04792,Frame Assembly,Detail,Aluminium,Approved,2024-03-30,J. Smith,L. Novak,A. Patel,2024-04-12,A4,
+DWG-10087,B,Brightline Industries,PRJ-2023-01649,Mount Weldment,Schematic,Aluminium,Rejected,2024-11-23,M. Chen,A. Patel,,,A3,DWG-10087:C
+DWG-10034,A,Everline Components,PRJ-2024-04228,Frame Detail,BOM,Steel,Superseded,2024-03-14,J. Smith,L. Novak,L. Novak,2024-03-16,A2,DWG-10034:B
+DWG-10064,A,Brightline Industries,PRJ-2024-01270,Panel Detail,BOM,Steel,Rejected,2024-10-17,L. Novak,M. Chen,,,A4,
+DWG-10127,A,Delta Precision Works,PRJ-2023-03572,Bracket Weldment,Schematic,Stainless Steel,Rejected,2026-02-08,M. Chen,L. Novak,,,A3,DWG-10127:B
+DWG-10004,C,Delta Precision Works,PRJ-2026-03012,Housing Assembly,Assembly,Aluminium,Pending Approval,2026-06-05,M. Chen,J. Smith,,,A0,
+DWG-10095,C,Coastal Fabrication Ltd,PRJ-2025-02749,Mount Weldment,BOM,Aluminium,Draft,2025-04-01,L. Novak,R. Okafor,,,A3,
+DWG-10145,B,Coastal Fabrication Ltd,PRJ-2026-02171,Frame Assembly,Schematic,Titanium,Pending Approval,2024-10-02,A. Patel,R. Okafor,,,A4,
+DWG-10013,A,Brightline Industries,PRJ-2025-01042,Frame Assembly,Assembly,Steel,Rejected,2026-02-26,M. Chen,A. Patel,,,A4,DWG-10013:B
+DWG-10018,A,Acme Manufacturing,PRJ-2026-00493,Mount Weldment,Assembly,Plastic,Draft,2026-03-29,R. Okafor,A. Patel,,,A0,
+DWG-10098,B,Everline Components,PRJ-2023-04667,Mount Assembly,Schematic,Aluminium,Superseded,2025-02-22,R. Okafor,L. Novak,M. Chen,2025-02-27,A0,DWG-10098:C
+DWG-10140,A,Coastal Fabrication Ltd,PRJ-2023-02717,Panel Weldment,Assembly,Plastic,Draft,2024-05-07,M. Chen,J. Smith,,,A0,
+DWG-10123,A,Acme Manufacturing,PRJ-2023-00837,Mount Assembly,Detail,Titanium,Superseded,2024-07-01,R. Okafor,L. Novak,A. Patel,2024-07-04,A0,DWG-10123:B
+DWG-10043,A,Coastal Fabrication Ltd,PRJ-2023-02586,Panel Weldment,Detail,Steel,Superseded,2025-09-03,R. Okafor,A. Patel,J. Smith,2025-09-16,A4,DWG-10043:B
+DWG-10005,A,Brightline Industries,PRJ-2026-01674,Panel Detail,Detail,Aluminium,Draft,2024-09-28,R. Okafor,A. Patel,,,A2,
+DWG-10046,A,Coastal Fabrication Ltd,PRJ-2025-02650,Housing Assembly,BOM,Titanium,Draft,2025-06-19,L. Novak,M. Chen,,,A4,
+DWG-10027,B,Coastal Fabrication Ltd,PRJ-2023-02124,Mount Detail,Detail,Aluminium,Rejected,2025-10-06,L. Novak,M. Chen,,,A2,
+DWG-10141,C,Everline Components,PRJ-2025-04056,Bracket Detail,Assembly,Titanium,Pending Approval,2024-04-17,A. Patel,J. Smith,,,A4,
+DWG-10111,B,Delta Precision Works,PRJ-2026-03491,Panel Detail,Assembly,Stainless Steel,Pending Approval,2024-06-07,M. Chen,A. Patel,,,A2,
+,A,Everline Components,PRJ-2025-04051,Housing Detail,Assembly,Plastic,Superseded,2024-02-16,R. Okafor,M. Chen,R. Okafor,2024-02-27,A1,DWG-10001:B
+DWG-10055,B,Brightline Industries,PRJ-2025-01845,Bracket Detail,BOM,Steel,Pending Approval,2024-07-11,R. Okafor,M. Chen,,,A0,
+DWG-10045,A,Coastal Fabrication Ltd,PRJ-2025-02235,Panel Detail,BOM,Plastic,Pending Approval,2026-06-01,J. Smith,L. Novak,,,A2,
+DWG-10068,B,Delta Precision Works,PRJ-2023-03365,Housing Assembly,Assembly,Plastic,Rejected,2024-08-04,M. Chen,A. Patel,,,A3,DWG-10068:C
+DWG-10020,C,Delta Precision Works,PRJ-2025-03411,Panel Weldment,Detail,Titanium,Pending Approval,2025-03-13,J. Smith,A. Patel,,,A0,
+DWG-10101,A,Brightline Industries,PRJ-2023-01380,Mount Assembly,Detail,Aluminium,Rejected,2024-03-18,L. Novak,A. Patel,,,A1,
+DWG-10053,C,Coastal Fabrication Ltd,PRJ-2023-02670,Frame Weldment,Assembly,Stainless Steel,Pending Approval,2025-06-07,A. Patel,J. Smith,,,A3,
+DWG-10115,A,Delta Precision Works,PRJ-2025-03761,Frame Assembly,Detail,Titanium,Superseded,2025-11-10,L. Novak,J. Smith,M. Chen,2025-11-23,A3,DWG-10115:B
+DWG-10085,B,Acme Manufacturing,PRJ-2025-00546,Panel Detail,Assembly,Stainless Steel,Pending Approval,2024-12-26,R. Okafor,J. Smith,,,A3,
+DWG-10120,A,Brightline Industries,PRJ-2023-01190,Frame Detail,Assembly,Stainless Steel,Rejected,2025-09-03,A. Patel,J. Smith,,,A1,DWG-10120:B
+DWG-10097,B,Brightline Industries,PRJ-2023-01105,Panel Weldment,BOM,Steel,Superseded,2026-01-03,L. Novak,M. Chen,L. Novak,2026-01-06,A4,DWG-10097:C
+DWG-10034,C,Everline Components,PRJ-2024-04228,Frame Detail,BOM,Steel,Pending Approval,2024-04-16,A. Patel,J. Smith,,,A2,
+DWG-10050,A,Acme Manufacturing,PRJ-2024-00696,Bracket Weldment,Assembly,Aluminium,Approved,2026-03-10,A. Patel,M. Chen,R. Okafor,2026-03-16,A3,
+DWG-10035,A,Brightline Industries,PRJ-2023-01546,Panel Weldment,Assembly,Aluminium,Rejected,2026-02-01,L. Novak,J. Smith,,,A2,DWG-10035:B
+DWG-10053,B,Coastal Fabrication Ltd,PRJ-2023-02670,Frame Weldment,Assembly,Stainless Steel,Superseded,2025-05-29,L. Novak,M. Chen,J. Smith,2025-06-04,A3,DWG-10053:C
+DWG-10118,A,Brightline Industries,PRJ-2025-01825,Mount Detail,Schematic,Stainless Steel,Rejected,2025-10-04,L. Novak,A. Patel,,,A1,
+DWG-10048,B,Brightline Industries,PRJ-2025-01915,Mount Assembly,BOM,Titanium,Superseded,2024-09-08,J. Smith,A. Patel,J. Smith,2024-09-09,A1,DWG-10048:C
+DWG-10133,C,Brightline Industries,PRJ-2026-01242,Mount Weldment,Schematic,Titanium,Pending Approval,2025-09-19,J. Smith,M. Chen,,,A3,
+DWG-10121,B,Brightline Industries,PRJ-2025-01140,Bracket Assembly,Assembly,Titanium,Rejected,2025-04-14,L. Novak,M. Chen,,,A2,
+DWG-10087,A,Brightline Industries,PRJ-2023-01649,Mount Weldment,Schematic,Aluminium,Rejected,2024-11-02,R. Okafor,L. Novak,,,A3,DWG-10087:B
+DWG-10132,C,Delta Precision Works,PRJ-2026-03148,Mount Detail,Assembly,Plastic,Draft,2025-11-14,J. Smith,A. Patel,,,A2,
+,B,Brightline Industries,PRJ-2023-01546,Panel Weldment,Assembly,Aluminium,Superseded,2026-03-25,J. Smith,R. Okafor,R. Okafor,2026-04-06,A2,DWG-10035:C
+DWG-10146,A,Acme Manufacturing,PRJ-2023-00413,Panel Detail,Detail,Aluminium,Rejected,2026-03-21,L. Novak,A. Patel,,,A3,DWG-10146:B
+DWG-10093,B,Delta Precision Works,PRJ-2025-03211,Bracket Weldment,BOM,Plastic,Pending Approval,2024-06-08,L. Novak,M. Chen,,,A4,
+DWG-10084,A,Brightline Industries,PRJ-2026-01959,Housing Assembly,Assembly,Titanium,Draft,2025-12-26,M. Chen,A. Patel,,,A1,
+DWG-10077,B,Brightline Industries,PRJ-2026-01032,Bracket Weldment,BOM,Steel,Superseded,2025-06-04,A. Patel,R. Okafor,M. Chen,2025-06-12,A3,DWG-10077:C
+DWG-10051,A,Acme Manufacturing,PRJ-2026-00866,Bracket Assembly,Schematic,Aluminium,Draft,2025-10-08,M. Chen,L. Novak,,,A2,
+DWG-10023,C,Acme Manufacturing,PRJ-2025-00486,Frame Assembly,Schematic,Titanium,Pending Approval,2024-10-28,L. Novak,J. Smith,,,A1,
+DWG-10088,B,Acme Manufacturing,PRJ-2025-00855,Housing Weldment,BOM,Steel,Superseded,2025-12-23,M. Chen,L. Novak,A. Patel,2026-01-06,A3,DWG-10088:C
+DWG-10041,A,Everline Components,PRJ-2025-04559,Mount Weldment,BOM,Aluminium,Superseded,2025-10-16,R. Okafor,M. Chen,M. Chen,2025-10-20,A3,DWG-10041:B
+DWG-10033,B,Acme Manufacturing,PRJ-2024-00987,Bracket Weldment,Detail,Stainless Steel,Pending Approval,2025-05-31,A. Patel,J. Smith,,,A1,
+DWG-10017,A,Everline Components,PRJ-2026-04465,Housing Assembly,Schematic,Aluminium,Rejected,2024-11-17,J. Smith,A. Patel,,,A3,DWG-10017:B
+DWG-10132,A,Delta Precision Works,PRJ-2026-03148,Mount Detail,Assembly,Plastic,Superseded,2025-08-16,J. Smith,L. Novak,L. Novak,2025-08-26,A2,DWG-10132:B
+DWG-10028,A,Acme Manufacturing,PRJ-2024-00175,Panel Assembly,Assembly,Stainless Steel,Superseded,2025-05-06,J. Smith,M. Chen,R. Okafor,2025-05-07,A1,DWG-10028:B
+DWG-10108,C,Brightline Industries,PRJ-2025-01358,Mount Weldment,Assembly,Aluminium,Draft,2024-09-28,J. Smith,M. Chen,,,A1,
+DWG-10021,C,Delta Precision Works,PRJ-2025-03148,Mount Assembly,BOM,Plastic,Approved,2025-11-26,M. Chen,L. Novak,J. Smith,2025-12-05,A1,
+DWG-10133,B,Brightline Industries,PRJ-2026-01242,Mount Weldment,Schematic,Titanium,Superseded,2025-08-15,M. Chen,L. Novak,A. Patel,2025-08-22,A3,DWG-10133:C
+DWG-10073,B,Coastal Fabrication Ltd,PRJ-2023-02225,Mount Weldment,Assembly,Stainless Steel,Draft,2024-08-16,R. Okafor,M. Chen,,,A3,
+DWG-10010,A,Acme Manufacturing,PRJ-2023-00108,Mount Detail,Schematic,Stainless Steel,Rejected,2026-02-13,J. Smith,R. Okafor,,,A2,
+DWG-10138,B,Coastal Fabrication Ltd,PRJ-2025-02902,Panel Assembly,Detail,Steel,Approved,2025-10-14,R. Okafor,A. Patel,A. Patel,2025-10-27,A3,
+DWG-10113,A,Brightline Industries,PRJ-2025-01405,Housing Detail,Schematic,Stainless Steel,Superseded,2024-11-16,J. Smith,R. Okafor,R. Okafor,2024-11-21,A4,DWG-10113:B
+DWG-10062,A,Brightline Industries,PRJ-2023-01317,Bracket Detail,BOM,Steel,Superseded,2025-10-21,R. Okafor,J. Smith,A. Patel,2025-10-27,A1,DWG-10062:B
+DWG-10041,B,Everline Components,PRJ-2025-04559,Mount Weldment,BOM,Aluminium,Approved,2025-11-15,J. Smith,M. Chen,A. Patel,2025-11-21,A3,
+DWG-10007,B,Delta Precision Works,PRJ-2023-03344,Panel Assembly,Detail,Stainless Steel,Draft,2024-06-14,J. Smith,L. Novak,,,A2,
